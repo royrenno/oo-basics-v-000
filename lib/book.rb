@@ -4,4 +4,4 @@ class Book
   end
 end
 
-book.new ("And Then There Were None")
+
