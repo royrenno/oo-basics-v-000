@@ -3,4 +3,3 @@ class shoe
   def initialized(brand)
   
   end
-  
