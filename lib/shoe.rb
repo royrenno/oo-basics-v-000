@@ -1,9 +1,5 @@
 # Make your shoe class here!
 class Shoe
-  initialize(brand)
-  @brand = brand
+  initialize
 end
 
-def brand
-  @brand
-end
