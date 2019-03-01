@@ -3,3 +3,5 @@ class shoe
   def initialized
 
   end
+end
+
